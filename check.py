@@ -11,7 +11,7 @@ SPI_PORT   = 0
 SPI_DEVICE = 0
 mcp = Adafruit_MCP3008.MCP3008(spi=SPI.SpiDev(SPI_PORT, SPI_DEVICE))
 dfecg = pd.DataFrame(columns=['Time', 'Sample'])
-x_len = 100
+x_len = 150
 # Create figure for plotting
 fig = plt.figure()
 ax = fig.add_subplot(1, 1, 1)
