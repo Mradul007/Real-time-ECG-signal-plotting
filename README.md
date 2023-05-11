@@ -9,4 +9,5 @@ The data is also stored in the csv file.
 1. Adafruit_GPIO
 2. Adafruit_MCP3008
 # Plot for the ECG-signal obtained 
-The plot ![Figure_1ECG](https://user-images.githubusercontent.com/104089415/232229673-f063223e-bf9a-4e61-b1a9-dea29af7c03b.png)
+The plot \
+![Figure_1ECG](https://user-images.githubusercontent.com/104089415/232229673-f063223e-bf9a-4e61-b1a9-dea29af7c03b.png)
